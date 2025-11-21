@@ -3,7 +3,7 @@ SQL query for analyzing the dynamics of account creation, user activity based on
 
 The query leverages CTEs, JOINs, UNION ALL, aggregations, window functions and ranking.
 
-The result is the top 10 countries by account creation or open emails over time.
+The result is the top 10 countries by account creation or sent message over time.
 
 # Visualisation with Looker Studio
 <img width="690" height="529" alt="image" src="https://github.com/user-attachments/assets/daa72fb0-8ff6-48dd-986e-f7e39808f5ed" />
